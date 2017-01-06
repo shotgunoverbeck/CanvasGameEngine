@@ -1,0 +1,29 @@
+body
+{
+	padding: 25px;
+	font-family: monospace;
+	text-align: center;
+}
+
+#gamebox
+{
+	border: 2.5px solid black;
+	width: 910px!important;
+	text-align: center;
+}
+
+#informationBoxContainer
+{
+	margin-top: 15px;
+	width: 910px;
+	height: 128px;
+	display: inline-block;
+	background-color: grey;
+}
+
+#informationBox
+{
+	padding: 16px;
+	height: 96px;
+	overflow-y: scroll;
+}
